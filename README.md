@@ -19,8 +19,7 @@ CNN model for diagnosis from X-ray image
 Designed 2 different models of CNN, one of them contains 4 layers with padding and `relu` as an activation function after every 2 layers there is a `max-pooling` layer, then two fully connected layers with `relu` and `softmax` as an activation function. the second one contains 2 Convolution layers with `relu` as an activation function follows by the `max-pooling` layer. The optimizer for both models is `Adam` and `binary_crossentropy` as a loss function. 
 
 ## Result & Predection 
-The accuresy for both models is apove 95% accurce on the valudation set. 
-
+The accuracy for both models is above 95% accuracy on the validation set.
 
 ## To Do:
 - [ ] Testing the model.
