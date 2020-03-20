@@ -8,9 +8,9 @@ CNN model for diagnosis from X-ray image
 
 ## Dataset:
 
-1. The posstive cases of COVID-19 X-ray images I take them from Dr. Cohen in his 
+1. The posstive cases of COVID-19 X-ray images taken from Dr. Cohen in his 
 [repo](https://github.com/ieee8023/covid-chestxray-dataset)
-2. The normal cases I take them from dataset that published in Kaggle's dataset 
+2. The normal cases taken from dataset that published in Kaggle's dataset 
 [Here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/data#).
 
 
