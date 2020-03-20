@@ -13,7 +13,7 @@ Radiological features on chest x-ray of confirmed COVID-19 cases were parenchyma
 3.  Wu Z, Mcgoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China. Jama. 2020Jan24;
 4.  Yoon SH, Lee KH, Kim JY, Lee YK, Ko H, Kim KH, et al. Chest Radiographic and CT Findings of the 2019 Novel Coronavirus Disease (COVID-19): Analysis of Nine Patients Treated in Korea. Korean Journal of Radiology. 2020Jan26;21(4):494.
 
-*I would like to thank Dr.[Mohammed](https://github.com/mrg0lden) for helping me understand this disease and participating in this paragraph. Also [pyimagesearch blog](https://www.pyimagesearch.com/) for inspired me*
+*I would like to thank Dr.[Mohammed](https://github.com/mrg0lden) for helping me understand this disease and participating in this paragraph. Also [pyimagesearch blog](https://www.pyimagesearch.com/) for inspired me.*
 
 ## Dataset:
 
