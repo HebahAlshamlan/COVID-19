@@ -1,5 +1,5 @@
 # COVID-19
-CNN model for diagnosis from X-ray image 
+CNN model that diagnoses using Chest X-ray medical images
 
 **DISCLAIMER: This model was designed and implemented for educational purposes. it MUST NOT be used for medical diagnosis as it was NOT tested by a field expert.**
 
